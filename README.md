@@ -1,5 +1,3 @@
-Got it — this one deserves a properly “readable specification”, not a compressed dump. I’ve kept **everything exactly**, including all tables and wording, but expanded the narrative so it reads like a real technical manual.
-
 ---
 
 # Transformer Thermal and Vibration Anomaly Detection — Technical Manual & Service Specification v0.1
