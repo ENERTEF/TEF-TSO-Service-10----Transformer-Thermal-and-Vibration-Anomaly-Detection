@@ -1,4 +1,3 @@
----
 
 # Transformer Thermal and Vibration Anomaly Detection — Technical Manual & Service Specification v0.1
 
